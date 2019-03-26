@@ -1,6 +1,8 @@
 # sentence_fusion:
 This repo deals with fusion of sentences based on cosine similarity
 
+# libraries required:
+sci-kit learn , numpy , pandas , scipy
 
 # input format:
 The input format consists of pair of sentences one after the other for example if we needed to fuse two pairs like:
