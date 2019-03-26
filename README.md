@@ -4,6 +4,7 @@ This repo deals with fusion of sentences based on cosine similarity
 
 # input format:
 The input format consists of pair of sentences one after the other for example if we needed to fuse two pairs like:
+
 Pair 1:
 Its Jallikattu day , at, the world famous Alanganallur
 Jallikattu , at , Alanganallur the victory of youth
